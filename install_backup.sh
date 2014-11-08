@@ -43,12 +43,12 @@ function linkh {
 
 cd ~
 rm Muzyka Szablony
-append 'source ~/.bashrc.after' .bashrc
+append 'source ~/.bashrc.after.sh' .bashrc
 linkd Muzyka
 linkdb
 linkdb Skrypty
 linkh .bash_profile.after
-linkh .bashrc.after
+linkh .bashrc.after.sh
 linkh .gitconfig
 linkh .hidden
 linkh .inputrc
