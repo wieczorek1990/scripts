@@ -1,0 +1,61 @@
+##CLI
+aspell-pl
+cmake
+curl
+disper
+elinks
+flac
+git
+gksu
+htop
+lame
+moreutils
+mplayer2
+octave
+p7zip
+#parallel
+pmount
+ppa-purge
+prey
+sox libsox-fmt-all
+texlive
+timidity
+traceroute
+tree
+vim-gnome
+xclip
+youtube-dl
+
+##GUI
+audacity
+banshee
+gimp
+gnome-shell
+inkscape
+k3b k3b-i18n
+klavaro
+meld
+shutter gnome-web-photo libnet-dbus-glib-perl libimage-exif-perl
+solfege
+soundconverter
+spotify-client-gnome-support
+stellarium
+texmaker
+tuxguitar tuxguitar-jsa
+unetbootin
+vlc
+
+##Inne
+#Chrome - http://www.google.pl/intl/pl/chrome/
+#Dropbox - https://www.dropbox.com/install?os=lnx https://www.dropbox.com/en/help/246
+#Heroku - https://toolbelt.heroku.com/debian
+#Janus - https://github.com/carlhuda/janus
+#Java - https://launchpad.net/~webupd8team/+archive/ubuntu/java
+#NVIDIA - http://www.nvidia.pl/Download/index.aspx?lang=pl Quadro NVS (Notebooks) NVS 3100M
+#Node - http://nodejs.org/
+#Qt - http://qt-project.org/downloads
+#RubyMine - http://www.jetbrains.com/ruby/download/
+#Skype - http://www.skype.com/pl/download-skype/skype-for-linux/
+#Spotify - https://www.spotify.com/pl/download/previews/
+#TrueCrypt - https://truecrypt.ch/downloads/
+#Picard - git@github.com:musicbrainz/picard.git

@@ -1,0 +1,41 @@
+##CLI
+cloc
+curl
+disper
+elinks
+flac
+git
+lame
+parallel
+sox
+subversion
+timidity
+trash-cli
+tree
+xclip
+
+##GUI
+banshee
+gnome-sound-recorder
+klavaro
+meld
+nautilus-dropbox
+nvidia-driver
+solfege
+soundconverter
+stellarium
+tuxguitar tuxguitar-jsa
+unetbootin
+vim-gnome
+virtualbox
+vlc
+
+##Inne
+#Chrome - https://www.google.com/chrome/browser/?platform=linux&extra=devchannel
+#RubyMine - http://www.jetbrains.com/ruby/download/ + BashSupport
+#Skype - https://wiki.debian.org/skype
+#sponge - apt-get download moreutils
+#Spotify - https://www.spotify.com/pl/download/previews/ + spotify-client-gnome-support
+#TrueCrypt - https://truecrypt.ch/downloads/
+#Picard - git@github.com:musicbrainz/picard.git + python-dev python-pyqt5 python-mutagen libchromaprint0 python-libdiscid
+#Prey - https://preyproject.com/

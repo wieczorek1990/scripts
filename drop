@@ -1,0 +1,8 @@
+#!/bin/bash
+user=tmp
+cd /home
+sudo killall dropbox
+sudo rm -rf $user/* $user/.*
+~/Skrypty/next_mac.sh
+sleep 12
+sudo firefox --private http://www.dispostable.com/inbox/u$1
