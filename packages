@@ -1,8 +1,10 @@
 ##CLI
+checkinstall
 cloc
 curl
 disper
 elinks
+fish
 flac
 git
 lame
@@ -12,7 +14,7 @@ subversion
 timidity
 trash-cli
 tree
-xclip
+xsel
 
 ##GUI
 banshee
@@ -24,7 +26,7 @@ nvidia-driver
 solfege
 soundconverter
 stellarium
-tuxguitar tuxguitar-jsa
+tuxguitar
 unetbootin
 vim-gnome
 virtualbox
