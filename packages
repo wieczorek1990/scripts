@@ -2,29 +2,37 @@
 checkinstall
 cloc
 curl
+deborphan
 disper
 elinks
 fish
 flac
 git
+ibus
 lame
+ntp
 parallel
-sox
+recordmydesktop
+sox libsox-fmt-all
 subversion
 timidity
+tmux
 trash-cli
 tree
 xsel
+zip
 
 ##GUI
 banshee
+devhelp
 gnome-sound-recorder
 klavaro
 meld
 nautilus-dropbox
 nvidia-driver
+poedit
 solfege
-soundconverter
+soundconverter gstreamer0.10-plugins-ugly
 stellarium
 tuxguitar
 unetbootin
@@ -34,6 +42,7 @@ vlc
 
 ##Inne
 #Chrome - https://www.google.com/chrome/browser/?platform=linux&extra=devchannel
+#Node.js - https://github.com/nodesource/distributions
 #RubyMine - http://www.jetbrains.com/ruby/download/ + BashSupport
 #Skype - https://wiki.debian.org/skype
 #sponge - apt-get download moreutils

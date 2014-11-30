@@ -2,7 +2,7 @@
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 data=/media/data
 dropbox=$data/Dropbox
-backup=$dropbox/Backup/Ubuntu
+backup=$dropbox/Backup/Linux
 home=$backup/home/luke
 
 function append {
@@ -47,14 +47,7 @@ append 'source ~/.bashrc.after.sh' .bashrc
 linkd Muzyka
 linkdb
 linkdb Skrypty
-linkh .bash_profile.after
-linkh .bashrc.after.sh
-linkh .gitconfig
 linkh .hidden
-linkh .inputrc
-linkh .octaverc
-linkh .rvmrc
-linkh .vimrc.after
 linkh Szablony
 linkb /etc/apt/sources.list
 linkb /etc/X11/xorg.conf.d/20-nvidia.conf
