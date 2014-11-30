@@ -13,6 +13,7 @@ lame
 ntp
 parallel
 recordmydesktop
+ruby
 sox libsox-fmt-all
 subversion
 timidity
