@@ -1,2 +1,2 @@
 #!/bin/bash
-su - -c 'adb kill-server && adb start-server'
+sudo -i adb kill-server && sudo -i adb start-server

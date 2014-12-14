@@ -1,32 +1,35 @@
-##CLI
+## CLI
 checkinstall
 cloc
 curl
 deborphan
 disper
+ecryptfs-utils cryptsetup
 elinks
+firmware-iwlwifi
 fish
 flac
 git
-ibus
 lame
+mercurial
 ntp
+octave
 parallel
 recordmydesktop
+rsync
 ruby
+software-properties-common
 sox libsox-fmt-all
 subversion
 timidity
-tmux
 trash-cli
 tree
 xsel
 zip
 
-##GUI
+## GUI
 banshee
 devhelp
-gnome-sound-recorder
 klavaro
 meld
 nautilus-dropbox
@@ -41,13 +44,11 @@ vim-gnome
 virtualbox
 vlc
 
-##Inne
-#Chrome - https://www.google.com/chrome/browser/?platform=linux&extra=devchannel
-#Node.js - https://github.com/nodesource/distributions
-#RubyMine - http://www.jetbrains.com/ruby/download/ + BashSupport
-#Skype - https://wiki.debian.org/skype
-#sponge - apt-get download moreutils
-#Spotify - https://www.spotify.com/pl/download/previews/ + spotify-client-gnome-support
-#TrueCrypt - https://truecrypt.ch/downloads/
-#Picard - git@github.com:musicbrainz/picard.git + python-dev python-pyqt5 python-mutagen libchromaprint0 python-libdiscid
-#Prey - https://preyproject.com/
+## Inne
+# Chrome - https://www.google.com/chrome/browser/?platform=linux&extra=devchannel
+# Skype - https://wiki.debian.org/skype
+# sponge - apt-get download moreutils
+# Spotify - https://www.spotify.com/pl/download/previews/ + spotify-client-gnome-support
+# TrueCrypt - https://truecrypt.ch/downloads/
+# Picard - git@github.com:musicbrainz/picard.git + python-dev python-pyqt5 python-mutagen libchromaprint0 python-libdiscid
+# Prey - https://preyproject.com/
