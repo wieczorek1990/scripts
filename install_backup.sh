@@ -44,6 +44,7 @@ function linkh {
 cd ~
 rm Muzyka Szablony
 append 'source ~/.bashrc.after.sh' .bashrc
+append 'source ~/.bash_profile.after.sh' .bash_profile
 linkd Muzyka
 linkdb
 linkdb Skrypty
