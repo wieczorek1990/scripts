@@ -3,6 +3,7 @@ checkinstall
 cloc
 curl
 deborphan
+deja-dup
 disper
 ecryptfs-utils cryptsetup
 elinks
