@@ -18,7 +18,7 @@ octave
 parallel
 recordmydesktop
 rsync
-ruby
+ruby ruby-dev
 software-properties-common
 sox libsox-fmt-all
 subversion
@@ -29,14 +29,17 @@ xsel
 zip
 
 ## GUI
+audacity
 banshee
 devhelp
+hplip-gui
 klavaro
 meld
 nautilus-dropbox
 nvidia-driver
 poedit
 solfege
+sound-juicer
 soundconverter gstreamer0.10-plugins-ugly
 stellarium
 tuxguitar
