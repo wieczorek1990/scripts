@@ -1,9 +1,9 @@
 ## CLI
+build-essential
 checkinstall
 cloc
 curl
 deborphan
-deja-dup
 disper
 ecryptfs-utils cryptsetup
 elinks
@@ -11,17 +11,22 @@ firmware-iwlwifi
 fish
 flac
 git
+httpie
+imagemagick
+java-package
 lame
 mercurial
 ntp
 octave
 parallel
+python python-dev
 recordmydesktop
 rsync
 ruby ruby-dev
 software-properties-common
 sox libsox-fmt-all
 subversion
+sudo
 timidity
 trash-cli
 tree
@@ -31,29 +36,32 @@ zip
 ## GUI
 audacity
 banshee
-devhelp
 hplip-gui
+k3b
 klavaro
 meld
 nautilus-dropbox
 nvidia-driver
-poedit
+picard
 solfege
 sound-juicer
 soundconverter gstreamer0.10-plugins-ugly
 stellarium
 tuxguitar
 unetbootin
-vim-gnome
+vim
 virtualbox
 vlc
 
 ## Inne
-# Chrome - https://www.google.com/chrome/browser/?platform=linux&extra=devchannel
-# Hangouts - https://wiki.debian.org/UnofficialRepositories
+# Chrome - https://www.google.com/chrome/browser/desktop/index.html?platform=linux
+# flux - https://justgetflux.com/linux.html
+# gitsh - https://github.com/thoughtbot/gitsh
+# gnome-terminal-colors-solarized - https://github.com/Anthony25/gnome-terminal-colors-solarized
+# Hangouts - https://www.google.com/tools/dlpage/hangoutplugin
+# Janus - https://github.com/carlhuda/janus
+# Picard - git@github.com:musicbrainz/picard.git + python-dev python-pyqt5 python-mutagen libchromaprint0 python-libdiscid
 # Skype - https://wiki.debian.org/skype
 # sponge - apt-get download moreutils
-# Spotify - https://www.spotify.com/pl/download/previews/ + spotify-client-gnome-support
+# Spotify - https://www.spotify.com/pl/download/ + spotify-client-gnome-support
 # TrueCrypt - https://truecrypt.ch/downloads/
-# Picard - git@github.com:musicbrainz/picard.git + python-dev python-pyqt5 python-mutagen libchromaprint0 python-libdiscid
-# Prey - https://preyproject.com/
