@@ -26,6 +26,7 @@ zip
 ## GUI
 audacity
 banshee
+chromium chromium-l10n
 klavaro
 meld
 nautilus-dropbox
@@ -35,11 +36,9 @@ soundconverter gstreamer1.0-plugins-ugly
 vlc
 
 ## Manual installation
-# Chrome - https://www.google.com/chrome/browser/desktop/index.html?platform=linux
 # flux - https://justgetflux.com/linux.html
 # gitsh - https://github.com/thoughtbot/gitsh
 # gnome-terminal-colors-solarized - https://github.com/Anthony25/gnome-terminal-colors-solarized
-# Hangouts - https://www.google.com/tools/dlpage/hangoutplugin
 # intellij-colors-solarized - https://github.com/jkaving/intellij-colors-solarized
 # Janus - https://github.com/carlhuda/janus
 # sponge - apt-get download moreutils
