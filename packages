@@ -1,13 +1,8 @@
 ## CLI
 build-essential
-checkinstall
 cloc
 curl
-deborphan
-disper
-ecryptfs-utils cryptsetup
 elinks
-firmware-iwlwifi
 fish
 flac
 git
@@ -16,40 +11,27 @@ imagemagick
 java-package
 lame
 mercurial
-ntp
 octave
 parallel
 python python-dev
-recordmydesktop
-rsync
 ruby ruby-dev
 software-properties-common
 sox libsox-fmt-all
 subversion
-sudo
-timidity
-trash-cli
 tree
+vim
 xsel
 zip
 
 ## GUI
 audacity
 banshee
-hplip-gui
 klavaro
 meld
 nautilus-dropbox
-nvidia-driver
 picard
-solfege
 sound-juicer
-soundconverter gstreamer0.10-plugins-ugly
-stellarium
-tuxguitar
-unetbootin
-vim
-virtualbox
+soundconverter gstreamer1.0-plugins-ugly
 vlc
 
 ## Manual installation
