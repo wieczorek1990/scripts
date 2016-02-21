@@ -36,6 +36,9 @@ sound-juicer
 soundconverter gstreamer1.0-plugins-ugly
 vlc
 
+# Fix
+libcanberra-gtk-module
+
 ## Manual installation
 # flux - https://justgetflux.com/linux.html
 # gitsh - https://github.com/thoughtbot/gitsh
