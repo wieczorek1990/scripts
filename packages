@@ -19,7 +19,7 @@ software-properties-common
 sox libsox-fmt-all
 subversion
 tree
-vim
+vim-gnome
 xsel
 zip
 
