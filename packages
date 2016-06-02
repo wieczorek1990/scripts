@@ -10,14 +10,12 @@ httpie
 imagemagick
 java-package
 lame
-mercurial
 octave
 parallel
 python python-dev
 ruby ruby-dev
 software-properties-common
 sox libsox-fmt-all
-subversion
 tree
 vim-gnome
 xsel
@@ -26,7 +24,6 @@ zip
 ## GUI
 audacity
 banshee
-chromium chromium-l10n
 klavaro
 meld
 nautilus-dropbox
