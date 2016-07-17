@@ -1,40 +1,41 @@
 ## CLI
+apt-file
 build-essential
-cloc
 curl
 elinks
 fish
 flac
 git
 httpie
-imagemagick
-java-package
 lame
 octave
 parallel
-python python-dev
-ruby ruby-dev
+pmount
+python-dev
+ruby-dev
 software-properties-common
 sox libsox-fmt-all
 tree
 vim-gnome
-xsel
-zip
 
 ## GUI
 audacity
 banshee
+gnome
 klavaro
 meld
 nautilus-dropbox
 network-manager-openvpn-gnome
 picard
 sound-juicer
-soundconverter gstreamer1.0-plugins-ugly
+soundconverter
 vlc
 
+# Firmware
+firmware-iwlwifi
+
 # Fix
-libcanberra-gtk-module
+# libcanberra-gtk-module
 
 ## Manual installation
 # flux - https://justgetflux.com/linux.html
@@ -44,6 +45,7 @@ libcanberra-gtk-module
 # gnome-terminal-colors-solarized - https://github.com/Anthony25/gnome-terminal-colors-solarized
 # intellij-colors-solarized - https://github.com/jkaving/intellij-colors-solarized
 # Janus - https://github.com/carlhuda/janus
+# keybase - https://keybase.io/download
 # Pixel Saver - https://github.com/deadalnix/pixel-saver
 # sponge - apt-get download moreutils
 # Spotify - https://www.spotify.com/pl/download/
