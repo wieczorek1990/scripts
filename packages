@@ -1,6 +1,7 @@
 ## CLI
 apt-file
 build-essential
+cloc
 curl
 elinks
 fish
