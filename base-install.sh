@@ -1,10 +1,4 @@
 #!/bin/sh
-# Sets shell options and defines install function.
+# Sets shell options.
 
 set -euox pipefail
-
-function install {
-	cd "$1"
-	./bin/install.sh
-	cd -
-}

@@ -3,5 +3,7 @@
 
 source "${PWD}/Scripts/base-install.sh"
 
-cd Others/
-install openssl
+cd ./Others/openssl/
+./Configure &&\
+ make -s -j10 &&\
+ sudo make install

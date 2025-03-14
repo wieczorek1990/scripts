@@ -3,6 +3,7 @@
 
 set -euox pipefail
 
+ssh-add
 for directory in Others/*
 do
 	cd "${directory}"
