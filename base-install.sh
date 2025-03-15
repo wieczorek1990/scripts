@@ -1,4 +1,4 @@
 #!/bin/sh
 # Sets shell options.
 
-set -euox pipefail
+set -eoux pipefail

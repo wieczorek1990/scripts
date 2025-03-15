@@ -1,7 +1,7 @@
 #!/bin/sh
 # Updates repositories.
 
-set -euox pipefail
+set -eoux pipefail
 
 if [ "$#" -eq 1 ]
 then
