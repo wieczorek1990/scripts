@@ -1,7 +1,7 @@
 #!/bin/sh
 # Updates repositories.
 
-set -eoux pipefail
+source "${PWD}/Scripts/options.sh"
 
 if [ "$#" -eq 1 ]
 then
@@ -16,6 +16,7 @@ else
 fi
 
 ssh-add
+
 for directory in Others/*
 do
 	cd "${directory}"
@@ -26,3 +27,5 @@ do
 	fi
 	cd -
 done
+
+rustup update

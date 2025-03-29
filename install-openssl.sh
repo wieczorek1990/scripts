@@ -1,7 +1,7 @@
 #!/bin/sh
 # Installs OpenSSL.
 
-source "${PWD}/Scripts/base-install.sh"
+source "${PWD}/Scripts/options.sh"
 
 cd ./Others/openssl/
 ./Configure &&\

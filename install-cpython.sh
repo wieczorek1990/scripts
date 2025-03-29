@@ -1,7 +1,7 @@
 #!/bin/sh
 # Installs Python.
 
-source "${PWD}/Scripts/base-install.sh"
+source "${PWD}/Scripts/options.sh"
 
 cd ./Others/cpython/
 ./configure --prefix=/usr/local --with-openssl=/usr/local &&\
