@@ -3,6 +3,7 @@
 
 cd (status dirname)/..
 
+echo -e "Hello," (whoami)"."
 ssh-add
 
 for directory in ./Others/*
