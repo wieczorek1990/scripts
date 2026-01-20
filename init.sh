@@ -12,7 +12,7 @@ function clone() {
   cd -
 }
 
-clone Others/ https://github.com/newelldev/macos-terminal-solarized.git
 clone Others/ https://github.com/fish-shell/fish-shell.git
 clone Others/ https://github.com/openssl/openssl.git
 clone Others/ https://github.com/python/cpython.git
+clone Others/ https://github.com/rust-lang/rust.git

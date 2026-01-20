@@ -3,7 +3,6 @@
 
 source "${PWD}/Scripts/options.sh"
 
-./Scripts/install-rust.sh
 ./Scripts/install-fish.sh
 ./Scripts/install-openssl.sh
 ./Scripts/install-cpython.sh

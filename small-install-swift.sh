@@ -1,3 +1,3 @@
 #!/bin/sh
 
-brew upgrade swift
+xcode-select --install
