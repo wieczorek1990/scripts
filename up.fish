@@ -7,8 +7,9 @@ echo -e "Hello," (whoami)"."
 ssh-add
 
 for directory in ./Others/*
-    echo -e "Processing directory:\t$directory"
     cd $directory
+    set branch (git branch --show-current)
+    echo -e "Processing...\ndirectory:\t$directory\nbranch:\t$branch"
     git pull
     cd -
 end
